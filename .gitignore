@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Test cache and macOS noise
+.pytest_cache/
+.DS_Store
+
+# Private: academic deliverables and personal tools (kept local, never published)
+docs/
+*.docx
+VeritasTodo/
